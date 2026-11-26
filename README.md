@@ -1,5 +1,7 @@
 # Three failed sign-ins and a successful login
 
+[Try the 15-minute investigation](challenge.md) before reading the worked answer below.
+
 **Triage decision: verify the session with the account owner.** In this synthetic SOC exercise, `lab.alex` signed in successfully from `192.0.2.12` after three failures from that address in 2 minutes and 40 seconds. The events justify a follow-up. They do not identify the person who signed in.
 
 ## Evidence
