@@ -20,4 +20,4 @@
 2. What would go wrong if you grouped the events by address alone? Use a row from the table to explain.
 3. Which detail would you request first, and how would the answer change your next action?
 
-[Discuss your reasoning](https://github.com/JijoShibu/soc-auth-investigation/issues?q=is%3Aissue+%22Two+accounts+used+the+same+IP%22) · [Check the worked answer and run the SQLite query](README.md#evidence)
+[Discuss your reasoning](https://github.com/JijoShibu/soc-auth-investigation/issues/1) · [Check the worked answer and run the SQLite query](README.md#evidence)
